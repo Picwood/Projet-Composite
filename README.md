@@ -11,4 +11,4 @@ Excel_Carbon_tube_antisym_steel_carbone.m evalue d11 et d66 pour un tube en acie
 
 Excel_Carbon_tube_equily_3D2.m trace la surface de réponse de la fonction d11*d66 et d11*d66^0.5 pour un stratifié [-theta_ext/+theta_int]
 
-Stratifies Mars 2013 (Macro).xls est un fichier permettant de calculer les propriétés mécaniques d'un stratifié symétrique/non symétrique et d'un réservoir sous pression (propriété de Sylvain Meille)
+Stratifies Mars 2013 (Macro) - Copy.xls est un fichier permettant de calculer les propriétés mécaniques d'un stratifié symétrique/non symétrique et d'un réservoir sous pression (propriété de Sylvain Meille)
